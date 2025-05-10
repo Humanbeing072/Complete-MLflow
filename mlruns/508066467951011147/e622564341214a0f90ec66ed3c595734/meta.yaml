@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/508066467951011147/e622564341214a0f90ec66ed3c595734/artifacts
+end_time: 1746878946549
+entry_point_name: ''
+experiment_id: '508066467951011147'
+lifecycle_stage: active
+run_id: e622564341214a0f90ec66ed3c595734
+run_name: salty-pig-791
+run_uuid: e622564341214a0f90ec66ed3c595734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878946401
+status: 3
+tags: []
+user_id: Harsh

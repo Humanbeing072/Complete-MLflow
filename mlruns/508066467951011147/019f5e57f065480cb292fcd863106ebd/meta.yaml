@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/508066467951011147/019f5e57f065480cb292fcd863106ebd/artifacts
+end_time: 1746878693452
+entry_point_name: ''
+experiment_id: '508066467951011147'
+lifecycle_stage: active
+run_id: 019f5e57f065480cb292fcd863106ebd
+run_name: grandiose-koi-34
+run_uuid: 019f5e57f065480cb292fcd863106ebd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746878693242
+status: 3
+tags: []
+user_id: Harsh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/519363034617752390/04d5bb342b0048338df61999d35f0dad/artifacts
+end_time: 1746879940477
+entry_point_name: ''
+experiment_id: '519363034617752390'
+lifecycle_stage: active
+run_id: 04d5bb342b0048338df61999d35f0dad
+run_name: charming-duck-215
+run_uuid: 04d5bb342b0048338df61999d35f0dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746879939816
+status: 3
+tags: []
+user_id: Harsh
